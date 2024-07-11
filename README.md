@@ -1,1 +1,3 @@
-# Ybi_Foindation_Project
+# Bank Customer Churn Modelling
+
+This project aims to develop a predictive model for customer churn in a bank using the Support Vector Classifier (SVC) algorithm. By analyzing historical customer data, the model identifies patterns and key factors that contribute to customer attrition. Key features may include account age, transaction frequency, and service usage. The SVC algorithm classifies customers into "churn" or "stay" categories, enabling the bank to implement targeted retention strategies. The objective is to enhance customer retention, reduce attrition rates, and improve overall customer satisfaction by proactively addressing potential churn indicators.
